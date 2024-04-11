@@ -1,0 +1,7 @@
+1)ESP8266-microcontroller
+2)RX480E-sensor
+3)BUZZER
+4)BreadBoard
+//wires
+5)MaleToFemale-2
+6)MaleToMale-3

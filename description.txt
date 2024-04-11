@@ -1,0 +1,17 @@
+//This is a file  to describe how to run the program/
+/*
+step 1:
+	first need to download Arduino aplication in your PC
+	click the following link to download
+	https://www.arduino.cc/en/software
+step 2:
+	connect the microcontroler into the PC.
+	in Arduino to click Tools->port->()select port and bord
+step 3:
+	if it checks to Tools->Board info //which gives some data for board
+step 4:
+	File->open //open main.iso file
+step 5:
+	create a Bot using BOTFater in your telegram account.which is also available to get BOTid and user Id and also change the hotspot SSID and password in our home or mobile.The data to connect circuit diagram to connect buzzer and sensor in breadboard.
+step 6:
+	click to verify and upload code into the microcontroller
